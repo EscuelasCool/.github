@@ -1,4 +1,4 @@
-# EscuelasCool · HeatSchools 👋
+# EscuelasCool  👋
 
 ![](https://komarev.com/ghpvc/?username=EscuelasCool&style=flat-square&theme=tokyonight)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
@@ -8,7 +8,7 @@
 
 **Hacer visible una _amenaza silenciosa_**. Catalizando acción política para proteger la salud y el bienestar del estudiantado frente al calor extremo en América Latina.
 
-[Sitio web del proyecto](https://escuelascool.org/) · [Ficha del grant en Wellcome](https://wellcome.org/research-funding/funding-portfolio/funded-grants/making-silent-killer-visible-catalysing-policy)
+[Sitio web del proyecto](https://escuelascool.org/) | [Ficha del grant en Wellcome](https://wellcome.org/research-funding/funding-portfolio/funded-grants/making-silent-killer-visible-catalysing-policy)
 
 ---
 
@@ -20,11 +20,11 @@ El calor extremo es una de las consecuencias más peligrosas y menos visibles de
 
 Trabajamos en **Chile, Colombia y Perú** (países con tendencias aceleradas de calentamiento) para construir un panorama regional de la exposición al calor en las escuelas y desarrollar recomendaciones prácticas listas para la política pública.
 
-| | |
-| --- | --- |
-| **Países** | Chile, Colombia y Perú |
-| **Investigadora principal** | [Yasna Palmeiro-Silva](mailto:ypalmeiro@uc.cl) |
-| **Instituciones socias** | Universidad Peruana Cayetano Heredia (Perú) · Pontificia Universidad Católica de Chile (Chile) · Universidad de los Andes (Colombia) · Corporación Ciudades (Chile) · MICROB-R (regional) |
+|                                   |                                                                                                                                                                                                  |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Países**                 | Chile, Colombia y Perú                                                                                                                                                                          |
+| **Investigadora principal** | [Yasna Palmeiro-Silva](mailto:ypalmeiro@uc.cl)                                                                                                                                                    |
+| **Instituciones socias**    | Universidad Peruana Cayetano Heredia (Perú) · Pontificia Universidad Católica de Chile (Chile) · Universidad de los Andes (Colombia) · Corporación Ciudades (Chile) · MICROB-R (regional) |
 
 Título oficial del proyecto (Wellcome): *Making a silent killer visible: Catalysing policy action to protect school students’ health and wellbeing from extreme heat amidst a changing climate in Latin America*.
 
@@ -43,17 +43,17 @@ Título oficial del proyecto (Wellcome): *Making a silent killer visible: Cataly
 
 ## Financiamiento
 
-| Campo | Detalle |
-| --- | --- |
-| **Financiador** | [Wellcome](https://wellcome.org) |
-| **Programa** | [Climate Impacts Awards](https://wellcome.org/research-funding/funding-portfolio/funded-grants/making-silent-killer-visible-catalysing-policy): *Unlocking urgent climate action by making the health effects of climate change visible* |
-| **Premio** | Wellcome Climate Impacts Award |
-| **Referencia** | **331072/Z/25/Z** |
-| **Año de adjudicación** | **2025** |
+| Campo                           | Detalle                                                                                                                                                                                                                                   |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Financiador**           | [Wellcome](https://wellcome.org)                                                                                                                                                                                                           |
+| **Programa**              | [Climate Impacts Awards](https://wellcome.org/research-funding/funding-portfolio/funded-grants/making-silent-killer-visible-catalysing-policy): *Unlocking urgent climate action by making the health effects of climate change visible* |
+| **Premio**                | Wellcome Climate Impacts Award                                                                                                                                                                                                            |
+| **Referencia**            | **331072/Z/25/Z**                                                                                                                                                                                                                   |
+| **Año de adjudicación** | **2025**                                                                                                                                                                                                                            |
 
 <p align="center">
   <br>
   <a href="https://wellcome.org" rel="noopener">
-    <img src="https://escuelascool.org/assets/img/wellcome-funded.png" alt="Financiado por Wellcome" width="62" height="73">
+    <img src="https://escuelascool.org/assets/img/wellcome-funded.png" alt="Financiado por Wellcome" width="120" height="120">
   </a>
 </p>
